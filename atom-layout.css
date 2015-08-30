@@ -1,0 +1,54 @@
+.atom-Layout--block {
+  display: block;
+}
+
+.atom-Layout--invisible {
+  visibility: hidden !important;
+}
+
+.atom-Layout--relative {
+  position: relative;
+}
+
+.atom-Layout--fit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.atom-Layout--scroll {
+  overflow-scrolling: touch;
+  overflow: auto;
+}
+
+/* Fixed positions */
+
+.atom-Layout--fixedTop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.atom-Layout--fixedRight {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.atom-Layout--fixedBottom {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.atom-Layout--fixedLeft {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}

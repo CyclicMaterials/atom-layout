@@ -1,0 +1,20 @@
+{
+  "name": "atom-layout",
+  "version": "0.0.1",
+  "author": "Frederik Krautwald",
+  "description": "Layout styles",
+  "license": "MIT",
+  "bugs": "https://github.com/CyclicMaterials/atom-layout/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyclicMaterials/atom-layout"
+  },
+  "keywords": [
+    "cyclejs",
+    "layout",
+    "Material Design"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
